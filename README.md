@@ -1,7 +1,7 @@
 # Shopping Cart API
 
 Shopping cart solution where you can create Users, Items and Cart.
-This project is the back-end of the application, you can access the front-end here:
+This project is the back-end of the application, you can access the front-end here: https://github.com/priscilaluz/shopping-cart-web
 
 ## Prerequisites
 
@@ -18,6 +18,6 @@ This project is the back-end of the application, you can access the front-end he
 #### In the navigate
 - Access the endpoints in the path: http://localhost:8080/api/
 
-# Authors
+## Authors
 
 * PriscilaLuz
